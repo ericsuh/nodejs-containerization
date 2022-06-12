@@ -1,0 +1,7 @@
+{
+  "name": "test-node-signals",
+  "scripts": {
+    "main": "node ./main.js"
+  },
+  "license": "MIT"
+}
